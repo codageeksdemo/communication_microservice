@@ -8,7 +8,7 @@ class Hello {
 
     @GetMapping("/")
     String home() {
-        return "Hello, World!";
+        return "Hello, Welcome to Transform demo!";
     }
 
 }
